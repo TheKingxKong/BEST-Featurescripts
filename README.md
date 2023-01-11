@@ -33,3 +33,16 @@ Creates wire bundles that go through sketch points in 3D space.
 
 #### [Curved Text](https://cad.onshape.com/documents/cfec40e2b66bb4ddb2f3414b)
 Creates embossed or raised text on flat and curved surfaces.
+
+
+## Coming Soon
+
+#### [Servo Cutout](https://cad.onshape.com)
+
+#### [Bearing Cutout](https://cad.onshape.com)
+
+#### [Servo Horn Cutout](https://cad.onshape.com)
+
+#### [Cortex Mounting Holes](https://cad.onshape.com)
+
+#### [Rack & Pinion](https://cad.onshape.com)
