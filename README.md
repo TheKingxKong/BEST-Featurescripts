@@ -15,9 +15,6 @@ Creates finger joints from overlapping geometry.
 #### [Lighten](https://cad.onshape.com/documents/573f7d70e4b0fddafb52148c)
 Creates pockets to lighten a solid part.
 
-#### [Pocket Holes](https://cad.onshape.com/documents/5789a3c4e4b0e65410faa582)
-Creates pocket holes according to the thickness and the length of the part.
-
 #### [Torus, Dome, and Sphere](https://cad.onshape.com/documents/05a8f21030b0b305f4416e1a)
 Creates simple tori, domes and spheres.
 
